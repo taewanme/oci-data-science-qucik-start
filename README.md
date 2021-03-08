@@ -1,4 +1,4 @@
-# oci-data-science-qucik-start
+# OCI Data Science Quick-start
 The Initializing notebook repository for OCI data science services.
 
 ----
