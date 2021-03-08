@@ -11,9 +11,9 @@ OCI Data Service 인스턴스를 만들고 가상 터미널에서 다음 명령�
 git clone https://github.com/taewanme/oci-data-science-qucik-start.git
 ```
 
-![](![](https://taewanmerepo.github.io/2021/03/odsocicli/image0410.jpg))
-![](![](https://taewanmerepo.github.io/2021/03/odsocicli/image0420.jpg))
-![](![](https://taewanmerepo.github.io/2021/03/odsocicli/image0430.jpg))
-![](![](https://taewanmerepo.github.io/2021/03/odsocicli/image0440.jpg))
-![](![](https://taewanmerepo.github.io/2021/03/odsocicli/image0450.jpg))
-![](![](https://taewanmerepo.github.io/2021/03/odsocicli/image0460.jpg))
+![](https://taewanmerepo.github.io/2021/03/odsocicli/image0410.jpg)
+![](https://taewanmerepo.github.io/2021/03/odsocicli/image0420.jpg)
+![](https://taewanmerepo.github.io/2021/03/odsocicli/image0430.jpg)
+![](https://taewanmerepo.github.io/2021/03/odsocicli/image0440.jpg)
+![](https://taewanmerepo.github.io/2021/03/odsocicli/image0450.jpg)
+![](https://taewanmerepo.github.io/2021/03/odsocicli/image0460.jpg)
