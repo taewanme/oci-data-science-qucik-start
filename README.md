@@ -1,5 +1,5 @@
 # OCI Data Science Quick-start
-The Initializing notebook repository for OCI data science services.
+The initializing notebook repository for OCI data science services.
 
 ----
 
