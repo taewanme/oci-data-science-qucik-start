@@ -9,7 +9,7 @@ OCI Data Service 인스턴스를 만들고 가상 터미널에서 다음 명령�
 Notebook을 통해서 OCI Data Science의 기초 설정을 지원합니다. 
 
 ```
-git clone https://github.com/taewanme/oci-data-science-qucik-start.git
+git clone https://github.com/taewanme/oci-data-science-quick-start.git
 ```
 
 - 가상 터미널 오픈
